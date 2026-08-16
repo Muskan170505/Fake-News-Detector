@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+env/
+
+data/Fake.csv
+data/True.csv
+data/true.xlsx
+data/news_dataset.csv
+
+model_old/
+src_old/
